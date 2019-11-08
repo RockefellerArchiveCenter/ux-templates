@@ -3,16 +3,16 @@ layout: docs
 title: Usability Testing at the Rockefeller Archive Center
 ---
 
-## Approach and Planning 
+## Approach and Planning
 One of the Digital Programs Team’s core activities is supporting and advocating for the usability of archival systems and processes at the RAC. Driven by our desire to facilitate broad and equitable access to archival materials, we take a user-centered approach to design and implementation, striving to improve user experience by engaging users throughout all stages of the implementation and systems lifecycle through user research, usability testing, and communication with stakeholders.
 
-This document specifies the roles, process, and associated documentation that make up our approach to usability testing. This strategy is informed by Steve Krug’s book Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems (2010), which emphasizes iterative and incremental tactics with a focus on early and frequent testing.
+Here we specify the roles, process, and associated documentation that make up our approach to usability testing. This strategy is informed by Steve Krug’s book Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems (2010), which emphasizes iterative and incremental tactics with a focus on early and frequent testing.
 
 ## Roles
 Facilitator, project lead, and reporter may be the same person.
 
-### UX project lead 
-Create testing plan, coordinate task creation and revision, recruit participants and observers, schedule tests, manage report production, file participant consent forms. 
+### UX project lead
+Create testing plan, coordinate task creation and revision, recruit participants and observers, schedule tests, manage report production, file participant consent forms.
 
 ### Facilitator
 Facilitate usability tests including pilot tests, lead debrief sessions, contribute to report production.
@@ -20,7 +20,7 @@ Facilitate usability tests including pilot tests, lead debrief sessions, contrib
 ### Reporter
 Observe or facilitate tests, participate in debrief session, draft reports for project team.
 
-### Observer/s 
+### Observer/s
 Watch live tests, take notes, identify problems, participate in debrief
 
 ### Test participant
@@ -37,11 +37,11 @@ The process of conducting usability tests is iterative and incremental: plan, bu
 6. Conduct a debrief after each test with observers to identify the most serious problems.
 7. Prepare a short report for the project design and development teams and coordinate with those teams to fix the problems.
 8. Repeat.
-9. Conduct shorter, more informal tests as needed.
+9. Conduct shorter, more informal tests as needed without recording.
 
 ## Documentation and deliverables
 1. Formal facilitator script  
-This can be adapted to for informal A/B or low fidelity prototype testing with or without observers.
+This can be adapted for informal A/B or low fidelity prototype testing with or without observers.
 2. Recording consent form  
 Signature needed prior to test for non-RAC staff participants.
 3. Tasks  
@@ -56,8 +56,6 @@ A guide for the facilitator.
 8. Report  
 An actionable summary of testing results for the project team/s.
 9. Accessibility Conformance Report using the Voluntary Product Accessibility Template (VPAT)  
-Completed as necessary to facilitate accessibility auditing and communication to external users and stakeholders. This is prepared at a late stage to correspond with project release. 
+Completed as necessary to facilitate accessibility auditing and communication to external users and stakeholders. This is prepared at a late stage to correspond with project release.
 10. External project report  
 Completed as necessary to communicate to project stakeholders.
-
-
