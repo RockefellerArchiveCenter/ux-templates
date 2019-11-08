@@ -40,7 +40,7 @@ The process of conducting usability tests is iterative and incremental: plan, bu
 9. Conduct shorter, more informal tests as needed without recording.
 
 ## Documentation and deliverables
-1. Formal facilitator script  
+1. Facilitator script  
 This can be adapted for informal A/B or low fidelity prototype testing with or without observers.
 2. Recording consent form  
 Signature needed prior to test for non-RAC staff participants.
