@@ -36,7 +36,7 @@ If you would, I’m going to ask you to sign a simple permission form. It just s
 
 GIVE THE PERSON A FORM AND A PEN. START THE SCREEN RECORDER AS THEY SIGN THE FORM AND MINIMIZE.
 
-##  Testing
+## Testing
 
 Do you have any questions so far?
 Ok, before we jump in, I’d like to ask a few questions [Add appropriate warm-up questions]

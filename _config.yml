@@ -1,0 +1,15 @@
+public: false
+type: "docs"
+category: "reference and outreach"
+tags:
+  - "workflow"
+title: "Usability Testing Templates"
+description: "A guide for staff who work in the Reading Rooms or with onsite researchers."
+pages:
+  - ["Usability Testing at the Rockefeller Archive Center", "index"]
+  - ["Usability Testing Overview", "testing-overview"]
+  - ["Facilitator Script", "facilitator-script"]
+  - ["Tasks Template", "tasks-template"]
+  - ["Instructions for Observers", "observer-directions"]
+  - ["Guide to Facilitating a Debrief Session", "Debrief Guide"]
+  - ["Report Template", "report"]

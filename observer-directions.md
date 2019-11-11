@@ -6,18 +6,13 @@ title: Instructions for Observers
 Usability testing consists of watching people try to use a thing (eg. website, application, tool) with the goal of finding ways to make it easier to use. It is a qualitative approach to user experience testing that consists of:
 
 - Creating tasks that a participant will attempt to accomplish during the test. The tasks are written to test specific aspects of the product.
-
 - A facilitator sitting down with a participant and asking that person to try to accomplish the tasks while encouraging them to think out loud.
-
 - Observers gathering in another room to watch the test using screen-sharing software and recorded audio.
-
 - A debrief session after each test to compare notes and identify which problems should be fixed.
 
 ## Before the test
 - Read this guide and familiarize yourself with the usability testing process. Contact the facilitator with any questions or concerns you have.
-
 - Obtain a copy of the test tasks and the Usability Test Observer Worksheet. The organizer will share these with you.
-
 - Test the remote connection for live screen/audio with the test facilitator.
 
 
