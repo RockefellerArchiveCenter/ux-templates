@@ -2,9 +2,6 @@
 layout: docs
 title: Usability Testing Overview
 ---
-
-The roles, process, and associated documentation that make up our approach to usability testing. This strategy is informed by Steve Krug’s book Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems (2010), which emphasizes iterative and incremental tactics with a focus on early and frequent testing.
-
 ## Roles
 Recommended roles and associated activities to plan, conduct, and evaluate usability tests. Multiple roles can be filled by the same person.
 
