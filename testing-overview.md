@@ -6,53 +6,47 @@ title: Usability Testing Overview
 The roles, process, and associated documentation that make up our approach to usability testing. This strategy is informed by Steve Krug’s book Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems (2010), which emphasizes iterative and incremental tactics with a focus on early and frequent testing.
 
 ## Roles
-Facilitator, project lead, and reporter may be the same person.
+Recommended roles and associated activities to plan, conduct, and evaluate usability tests. Multiple roles can be filled by the same person.
 
-### UX project lead
-Create testing plan, coordinate task creation and revision, recruit participants and observers, schedule tests, manage report production, file participant consent forms.
+- UX project lead: Create testing plan, coordinate task creation and revision, recruit participants and observers, schedule tests, manage report production, file participant consent forms.
 
-### Facilitator
-Facilitate usability tests including pilot tests, lead debrief sessions, contribute to report production.
+- Facilitator: Facilitate usability tests including pilot tests, lead debrief sessions, contribute to report production.
 
-### Reporter
-Observe or facilitate tests, participate in debrief session, draft reports for project team.
+- Reporter: Observe or facilitate tests, participate in debrief session, draft reports for project team.
 
-### Observer/s
-Watch live tests, take notes, identify problems, participate in debrief
+- Observer/s: Watch tests, take notes, identify problems, participate in debrief.
 
-### Test participant
-Meet with the facilitator and attempt to accomplish the tasks and talk through their experience of using the product.
+- Test participant: Meet with the facilitator and attempt to accomplish the tasks and talk through their experience of using the product.
 
 ## Testing Process
-The process of conducting usability tests is iterative and incremental: plan, build, test, repeat.
+The usability testing process is iterative and incremental: plan, build, test, repeat.
 
-1. In coordination with designers and developers, draft tasks and associated scenarios that target project components and processes that are to be tested.
+1. In coordination with designers, developers, and other stakeholders, identify features and processes that necessitate testing with users.
+2. Draft tasks and a testing script to target these features.
 2. Recruit participants from project user communities.
-3. Recruit observers.
-4. Conduct a pilot test without recording or observers.
-5. Conduct 3-4 usability tests where participants are recorded as they attempt to accomplish the tasks and talk through their experience of using the product.
-6. Conduct a debrief after each test with observers to identify the most serious problems.
-7. Prepare a short report for the project design and development teams and coordinate with those teams to fix the problems.
-8. Repeat.
-9. Conduct shorter, more informal tests as needed without recording.
+3. Recruit observers who represent stakeholders.
+4. Conduct a pilot study to test the test and make any necessary adjustments to the tasks and script.
+5. Conduct 3-4 usability tests. With permission from participants, record the screen and audio as the user attempts to accomplish the tasks and talks through their experience of using the product.
+6. Conduct a debrief with observers to identify the most serious usability problems. Debrief sessions can be held after each test, or after a set of tests.
+7. Prepare a short report for the project team and coordinate with those teams to fix the problems.
+8. Repeat as necessary.
 
 ## Documentation and deliverables
 1. Facilitator script  
-This can be adapted for informal A/B or low fidelity prototype testing with or without observers.
+The script keeps tests consistent and helps the facilitator to stay organized. The script can also be adapted for informal A/B or low fidelity prototype testing with or without observers.
 2. Recording consent form  
-Signature needed prior to test for non-RAC staff participants.
+Informed consent should be obtained prior to recording participants. Obtain the participant's signature for in-person testing, or obtain a recorded verbal consent for remote testing.
 3. Tasks  
-For the facilitator and observers.
+Concise scenarios and tasks designed to target specific questions about the usability of the product. The task text will be read aloud and shared directly with participants during the test. It is also useful to share the tasks with the observers as a reference.
 4. Tasks and difficulty ratings  
-A handout for participants with each task on its own page to reference during test and to indicate task difficulty rating.
-5. Instructions for observers
+A handout for participants with each task on its own page to reference during test and to indicate task difficulty rating. For remote tests, the facilitator can share the tasks in chat and record the difficulty rating separately.
+5. Instructions for observers  
+A handout to orient new observers to the usability testing process and their role.
 6. Observer worksheet  
-A handout to record the three most serious problems and any associated participant quotes. Completed worksheets are given to the facilitator after the debrief to help with reporting.
+A handout that can be used to help structure the observers' notes to facilitate the debrief session and share with the reporter.
 7. Guide to running a usability test debrief session  
-A guide for the facilitator.
+A guide for the debrief session facilitator.
 8. Report  
-An actionable summary of testing results for the project team/s.
-9. Accessibility Conformance Report using the Voluntary Product Accessibility Template (VPAT)  
-Completed as necessary to facilitate accessibility auditing and communication to external users and stakeholders. This is prepared at a late stage to correspond with project release.
+An actionable summary of testing results for the project team/s. The report format can be adjusted according to the needs of the team.
 10. External project report  
-Completed as necessary to communicate to project stakeholders.
+A report to communicate observations and resulting actions to project stakeholders outside of the project team.
