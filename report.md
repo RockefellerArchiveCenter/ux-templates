@@ -25,9 +25,9 @@ Concisely communicate the scope of testing. In a short, introductory paragraph, 
 List the most serious issues identified during testing and discussed in the debrief/s:
 
 ### Issue title
-Description: A short description of the behavior or problem.  
+Description: A short description of the behavior or problem.
 
-Quote (optional): “A supporting quote from one of the participants if available and helpful.”  
+Quote (optional): “A supporting quote from one of the participants if available and helpful.”
 
 Proposed Solution(s) (optional): Describe preferred solution(s) to the problem based on testing observations. Note any accessibility considerations.
 ### Issue title

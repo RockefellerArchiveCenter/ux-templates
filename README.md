@@ -1,5 +1,5 @@
 # UX Templates for the Rockefeller Archive Center
-Templates and guides for user experience/usability testing at the Rockefeller Archive Center.
+Templates and guides for usability testing at the Rockefeller Archive Center.
 
 ## Accessing the guide
 

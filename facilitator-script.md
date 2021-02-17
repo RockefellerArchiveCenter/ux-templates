@@ -5,9 +5,9 @@ title: Facilitator Script
 
 ## Before Each Test
 - [ ] Give observers the test tasks, Instructions for Observers, and Observer Worksheet
-- [ ] Prepare the tasks text for participant
-- [ ] Prepare a place to record tasks difficulty rating
-- [ ] Print/prepare consent form for non-staff participants
+- [ ] Prepare the task text to share with participant
+- [ ] Prepare to record task difficulty rating
+- [ ] Prepare consent form for non-staff participants
 - [ ] Connect test laptop to ethernet/wifi
 - [ ] If using Morae for in-person testing: share IP address with remote observers to connect via Morae Observer, open Morae recorded, and test mic
 - [ ] If using Zoom for remote testing: test Zoom recording capabilities and ensure local setting allow giving screen control to user
