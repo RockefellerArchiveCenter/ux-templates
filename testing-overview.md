@@ -5,15 +5,15 @@ title: Usability Testing Overview
 ## Roles
 Recommended roles and associated activities to plan, conduct, and evaluate usability tests. Multiple roles can be filled by the same person.
 
-- UX project lead: Create testing plan, coordinate task creation and revision, recruit participants and observers, schedule tests, manage report production, file participant consent forms.
+- **UX project lead**: Create testing plan, coordinate task creation and revision, recruit participants and observers, schedule tests, manage report production, file participant consent forms.
 
-- Facilitator: Facilitate usability tests including pilot tests, lead debrief sessions, contribute to report production.
+- **Facilitator**: Facilitate usability tests including pilot tests, lead debrief sessions, contribute to report production.
 
-- Reporter: Observe or facilitate tests, participate in debrief session, draft reports for project team.
+- **Reporter**: Observe or facilitate tests, participate in debrief session, draft reports for project team.
 
-- Observer/s: Watch tests, take notes, identify problems, participate in debrief.
+- **Observer/s**: Watch tests, take notes, identify problems, participate in debrief.
 
-- Test participant: Meet with the facilitator and attempt to accomplish the tasks and talk through their experience of using the product.
+- **Test participant**: Meet with the facilitator and attempt to accomplish the tasks and talk through their experience of using the product.
 
 ## Testing Process
 The usability testing process is iterative and incremental: plan, build, test, repeat.
@@ -29,21 +29,12 @@ The usability testing process is iterative and incremental: plan, build, test, r
 8. Repeat as necessary.
 
 ## Documentation and deliverables
-1. Facilitator script  
-The script keeps tests consistent and helps the facilitator to stay organized. The script can also be adapted for informal A/B or low fidelity prototype testing with or without observers.
-2. Recording consent form  
-Informed consent should be obtained prior to recording participants. Obtain the participant's signature for in-person testing, or obtain a recorded verbal consent for remote testing.
-3. Tasks  
-Concise scenarios and tasks designed to target specific questions about the usability of the product. The task text will be read aloud and shared directly with participants during the test. It is also useful to share the tasks with the observers as a reference.
-4. Tasks and difficulty ratings  
-A handout for participants with each task on its own page to reference during test and to indicate task difficulty rating. For remote tests, the facilitator can share the tasks in chat and record the difficulty rating separately.
-5. Instructions for observers  
-A handout to orient new observers to the usability testing process and their role.
-6. Observer worksheet  
-A handout that can be used to help structure the observers' notes to facilitate the debrief session and share with the reporter.
-7. Guide to running a usability test debrief session  
-A guide for the debrief session facilitator.
-8. Report  
-An actionable summary of testing results for the project team/s. The report format can be adjusted according to the needs of the team.
-10. External project report  
-A report to communicate observations and resulting actions to project stakeholders outside of the project team.
+1. **Facilitator script**: The script keeps tests consistent and helps the facilitator to stay organized. The script can also be adapted for informal A/B or low fidelity prototype testing with or without observers.
+2. **Recording consent form**: Informed consent should be obtained prior to recording participants. Obtain the participant's signature for in-person testing, or obtain a recorded verbal consent for remote testing.
+3. **Tasks**: Concise scenarios and tasks designed to target specific questions about the usability of the product. The task text will be read aloud and shared directly with participants during the test. It is also useful to share the tasks with the observers as a reference.
+4. **Tasks and difficulty ratings**: A handout for participants with each task on its own page to reference during test and to indicate task difficulty rating. For remote tests, the facilitator can share the tasks in chat and record the difficulty rating separately.
+5. **Instructions for observers**: A handout to orient new observers to the usability testing process and their role.
+6. **Observer worksheet**: A handout that can be used to help structure the observers' notes to facilitate the debrief session and share with the reporter.
+7. **Guide to running a usability test debrief session**: A guide for the debrief session facilitator.
+8. **Report**: An actionable summary of testing results for the project team/s. The report format can be adjusted according to the needs of the team.
+10. **External project report**: A report to communicate observations and resulting actions to project stakeholders outside of the project team.
