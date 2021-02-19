@@ -33,15 +33,15 @@ Repeat as necessary.
 
 Documents/deliverables:
 
-- **[Facilitator script](/facilitator-script)**: The script keeps tests consistent and helps the facilitator to stay organized. The script can also be adapted for informal A/B or low fidelity prototype testing with or without observers.
-- **[Tasks](/tasks-template)**: Concise scenarios and tasks designed to target specific questions about the usability of the product. The task text will be read aloud and shared directly with participants during the test.
+- **[Facilitator script](facilitator-script)**: The script keeps tests consistent and helps the facilitator to stay organized. The script can also be adapted for informal A/B or low fidelity prototype testing with or without observers.
+- **[Tasks](tasks-template)**: Concise scenarios and tasks designed to target specific questions about the usability of the product. The task text will be read aloud and shared directly with participants during the test.
 
 ### Test
 
 Conduct 3-4 usability tests. With permission from participants, record the screen and audio as the user attempts to accomplish the tasks and talks through their experience of using the product.
 
 Documents/deliverables:
-- **[Recording consent form](/consent)**: Informed consent should be obtained prior to recording participants. Obtain the participant's signature for in-person testing, or obtain a recorded verbal consent for remote testing.
+- **[Recording consent form](consent)**: Informed consent should be obtained prior to recording participants. Obtain the participant's signature for in-person testing, or obtain a recorded verbal consent for remote testing.
 
 - **Tasks and difficulty ratings**: A handout for participants with the text of each task on its own page to reference during test and to indicate task difficulty rating. For remote tests, the facilitator can share the tasks in chat and record the difficulty rating separately.
 
@@ -50,15 +50,15 @@ Documents/deliverables:
 1. Conduct a debrief with observers to identify the most serious usability problems. Debrief sessions can be held after each test, or after a set of tests.
 
 Documents/deliverables:
-- **[Instructions for observers](/observer-instruction)**: A handout to orient new observers to the usability testing process and their role.
-- **[Observer worksheet](/observer-worksheet)**: A handout that can be used to help structure the observers' notes to facilitate the debrief session and share with the reporter.
-- **[Guide to running a usability test debrief session](/debrief-guide)**: A guide for the debrief session facilitator.
+- **[Instructions for observers](observer-instruction)**: A handout to orient new observers to the usability testing process and their role.
+- **[Observer worksheet](observer-worksheet)**: A handout that can be used to help structure the observers' notes to facilitate the debrief session and share with the reporter.
+- **[Guide to running a usability test debrief session](debrief-guide)**: A guide for the debrief session facilitator.
 
 ### Implement
 Prepare a short report for the project team identifying usability problems, how serious they are, and possible solutions. Coordinate with the project team to implement solutions.
 
 Documents/deliverables:
-- **[Report](/report)**: An actionable summary of testing results for the project team/s. The report format can be adjusted according to the needs of the team.
+- **[Report](report)**: An actionable summary of testing results for the project team/s. The report format can be adjusted according to the needs of the team.
 - **External project report**: An optional report to communicate observations and resulting actions to project stakeholders outside of the project team.
 
 ## Related Resources

@@ -34,7 +34,7 @@ Usability testing consists of observing people try to use a thing (eg. website, 
   - Prevent users from accomplishing a task or would interfere with the primary functions of the interface.
   - Are experienced by multiple users.
 
-- If requested, share your [Usability Test Observer Worksheet](/observer-worksheet) with the facilitator to help them with writing a report.
+- If requested, share your [Usability Test Observer Worksheet](observer-worksheet) with the facilitator to help them with writing a report.
 
 ## Follow up
 After all tests and debriefs in a testing round are complete (usually 3-4 tests), the facilitator will produce a report to communicate the findings with the project team. They will work to fix the problems, and further testing will be scheduled as planned/necessary.
