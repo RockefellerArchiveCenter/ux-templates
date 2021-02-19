@@ -3,9 +3,9 @@ layout: docs
 title: Usability Testing Report
 ---
 
-[Template note: This report is for internal development and design teams to communicate the most serious usability issues observed during a round of testing. The report should include what was tested, the list of tasks, the list of problems, possible fixes, and when the next round of testing will be (if applicable).
+_Template note: This report is for internal development and design teams to communicate the most serious usability issues observed during a round of testing. The report should include what was tested, the list of tasks, the list of problems, possible fixes, and when the next round of testing will be (if applicable)._
 
-Work with project teams to add these problems to the relevant project management tool such as the project’s GitHub repository issues or an Asana board.]
+_Work with project teams to add these problems to the relevant project management tool such as the project’s GitHub repository issues or an Asana board._
 
 ## Introduction
 Concisely communicate the scope of testing. In a short, introductory paragraph, write when and why the testing was performed, as well as what user group/s the participants represent. Include a table listing the tasks.
