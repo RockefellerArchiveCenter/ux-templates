@@ -50,7 +50,7 @@ Documents/deliverables:
 1. Conduct a debrief with observers to identify the most serious usability problems. Debrief sessions can be held after each test, or after a set of tests.
 
 Documents/deliverables:
-- **[Instructions for observers](/observer-directions)**: A handout to orient new observers to the usability testing process and their role.
+- **[Instructions for observers](/observer-instruction)**: A handout to orient new observers to the usability testing process and their role.
 - **[Observer worksheet](/observer-worksheet)**: A handout that can be used to help structure the observers' notes to facilitate the debrief session and share with the reporter.
 - **[Guide to running a usability test debrief session](/debrief-guide)**: A guide for the debrief session facilitator.
 

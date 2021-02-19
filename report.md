@@ -1,9 +1,8 @@
 ---
 layout: docs
-title: Guide to Facilitating a Usability Test Debrief Session
+title: Usability Testing Report
 ---
 
-## Usability Testing Report
 [Template note: This report is for internal development and design teams to communicate the most serious usability issues observed during a round of testing. The report should include what was tested, the list of tasks, the list of problems, possible fixes, and when the next round of testing will be (if applicable).
 
 Work with project teams to add these problems to the relevant project management tool such as the project’s GitHub repository issues or an Asana board.]
