@@ -4,7 +4,9 @@ title: Guide to Facilitating a Usability Test Debrief Session
 ---
 
 ## Purpose
-The purpose of a debrief session is to identify and discuss observed problems that arose during usability testing. A debrief session should be held as soon as possible after each test. The goals of the session are to:
+The purpose of a debrief session is to identify and discuss observed problems that arose during usability testing. A debrief session should be held as soon as possible after each test.
+
+The goals of the session are to:
 1. Create a list of the most serious usability problems that the participant encountered using the site.
 2. Prioritize which problems should be fixed.
 3. Determine if certain issues require further testing.

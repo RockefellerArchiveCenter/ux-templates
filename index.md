@@ -4,12 +4,12 @@ title: Usability Testing at the Rockefeller Archive Center
 ---
 
 ## Introduction
-These templates and guides are intended for Rockefeller Archive Center staff to use for rapid, iterative, and scalable usability testing to center user perspectives and continually improve the usability and accessibility of our systems and collections.
+These templates and guides support rapid, iterative, and scalable usability testing designed to center user perspectives and continually improve the usability and accessibility of the Rockefeller Archive Center's systems and collections.
 
-The templates are not prescriptive, but are designed to be adapted for various team sizes, experience, goals, and types of user interfaces. The testing approach is informed by Steve Krug’s book _Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems (2010)_, which emphasizes iterative and incremental tactics with a focus on early and frequent testing.
+The templates are designed to be adapted for various team sizes, experience, goals, and types of user interfaces. The testing approach is informed by Steve Krug’s book _Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems (2010)_, which emphasizes iterative and incremental tactics with a focus on early and frequent testing.
 
 ## Roles
-The recommended roles and associated activities to plan, conduct, and evaluate usability tests. Multiple roles can be filled by the same person.
+The following roles and associated activities are recommended when planning, conducting, and evaluating usability tests. Multiple roles can be filled by the same person.
 
 - **UX project lead**: Create testing plan, coordinate task creation and revision, recruit participants and observers, schedule tests, manage report production, file participant consent forms.
 - **Facilitator**: Facilitate usability tests including pilot tests, lead debrief sessions, contribute to report production.
