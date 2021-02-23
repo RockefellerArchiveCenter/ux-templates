@@ -1,0 +1,15 @@
+public: true
+type: "docs"
+category: "reference and outreach"
+tags:
+  - "workflow"
+title: "Usability Testing Templates"
+pages:
+  - ["Usability Testing at the Rockefeller Archive Center", "index"]
+  - ["Facilitator Script", "facilitator-script"]
+  - ["Tasks Template", "tasks-template"]
+  - ["Recording Consent Form", "consent"]
+  - ["Instructions for Observers", "observer-instruction"]
+  - ["Observer Worksheet", "observer-worksheet"]
+  - ["Guide to Facilitating a Debrief Session", "debrief-guide"]
+  - ["Report Template", "report"]
