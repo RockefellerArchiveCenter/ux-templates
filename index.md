@@ -11,11 +11,11 @@ The templates are designed to be adapted for various team sizes, experience, goa
 ## Roles
 The following roles and associated activities are recommended when planning, conducting, and evaluating usability tests. Multiple roles can be filled by the same person.
 
-- **UX project lead**: Create testing plan, coordinate task creation and revision, recruit participants and observers, schedule tests, manage report production, file participant consent forms.
-- **Facilitator**: Facilitate usability tests including pilot tests, lead debrief sessions, contribute to report production.
-- **Reporter**: Observe or facilitate tests, participate in debrief session, draft reports for project team.
-- **Observer/s**: Watch tests, take notes, identify problems, participate in debrief.
-- **Test participant**: Meet with the facilitator and attempt to accomplish the tasks and talk through their experience of using the product.
+- **UX project lead**: Creates testing plan, coordinates task creation and revision, recruits participants and observers, schedules tests, manages report production, files participant consent forms.
+- **Facilitator**: Facilitates usability tests including pilot tests, leads debrief sessions, contributes to report production.
+- **Reporter**: Observes or facilitates tests, participates in debrief session, drafts reports for project team.
+- **Observer(s)**: Watches tests, takes notes, identifies problems, participates in debrief.
+- **Test participant**: Meets with the facilitator and attempts to accomplish the tasks and to talk through the experience of using the product.
 
 ## Usability Testing Process
 The usability testing process is iterative and incremental:
@@ -47,7 +47,7 @@ Documents/deliverables:
 
 ### Evaluate
 
-1. Conduct a debrief with observers to identify the most serious usability problems. Debrief sessions can be held after each test, or after a set of tests.
+Conduct a debrief with observers to identify the most serious usability problems. Debrief sessions can be held after each test, or after a set of tests.
 
 Documents/deliverables:
 - **[Instructions for observers](observer-instruction)**: A handout to orient new observers to the usability testing process and their role.

@@ -16,7 +16,7 @@ Findings will be summarized in a report prepared by the test facilitator or anot
 ## How to run a debrief session
 The debrief facilitator asks each member of the team to share with the group the most serious problems that they noticed during the test.
 
-The facilitator will note each problem on a whiteboard/flip chart/shared screen. If a problem was observed in multiple tests, they will note that. The facilitator will lead a discussion about which are the most serious problems that should be prioritized to fix, and which may require more testing.
+The facilitator will note each problem on a whiteboard/flip chart/shared screen. If a problem was observed in multiple tests, the facilitator will note that. The facilitator will lead a discussion about which are the most serious problems that should be prioritized to fix, and which may require more testing.
 
 While discussion about how to fix a problem may arise, the focus of the debrief is primarily to identify the most serious usability problems that can be prioritized to be fixed rather than specify the implementation of a solution.
 
