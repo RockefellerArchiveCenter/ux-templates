@@ -19,7 +19,7 @@ Usability testing consists of observing people try to use a thing (eg. website, 
 
 - **Watch** the usability test session as a live screen/audio recording or from a recorded video file.
 - **Take notes** about anything interesting you notice.
-- At the end of the test, **fill out** your [Usability Test Observer Worksheet](../observer-worksheet) with the most serious usability problems you observed in the session. Think about what you observed based on the participant’s interactions with the interface.
+- At the end of the test, **fill out** your [Usability Test Observer Worksheet](/ux-templates/observer-worksheet) with the most serious usability problems you observed in the session. Think about what you observed based on the participant’s interactions with the interface.
 
 ### Things to watch out for
 - Note when the user was confused or couldn’t complete a task.
@@ -32,7 +32,7 @@ Usability testing consists of observing people try to use a thing (eg. website, 
   - Prevent users from accomplishing a task or would interfere with the primary functions of the interface.
   - Are experienced by multiple users.
 
-- If requested, share your [Usability Test Observer Worksheet](../observer-worksheet) with the facilitator to aid in the writing of a report.
+- If requested, share your [Usability Test Observer Worksheet](/ux-templates/observer-worksheet) with the facilitator to aid in the writing of a report.
 
 ## Follow up
 After all tests and debriefs in a testing round are complete (usually 3-4 tests), the facilitator will produce a report to communicate the findings with the project team. The project team will work to fix the problems, and further testing will be scheduled as planned/necessary.
