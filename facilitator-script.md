@@ -79,4 +79,4 @@ That’s all the exercises I have!
 
 Do you have any questions for me at this point?
 
-That completes this usability test. Thank you so much for your time! I’ll go ahead and stop the recording and I’d love to hear any feedback you have about this remote testing process.
+That completes this usability test. Thank you so much for your time! I’ll go ahead and stop the recording.
