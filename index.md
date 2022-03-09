@@ -43,7 +43,7 @@ Conduct 3-4 usability tests. With permission from participants, record the scree
 Documents/deliverables:
 - **[Recording consent form](consent)**: Informed consent should be obtained prior to recording participants. Obtain the participant's signature for in-person testing, or obtain a recorded verbal consent for remote testing.
 
-- **Tasks and difficulty ratings**: A handout for participants with the text of each task on its own page to reference during test and to indicate task difficulty rating. For remote tests, the facilitator can share the tasks in chat and record the difficulty rating separately.
+- **Tasks**: A handout for participants with the text of each task on its own page to reference during test. For remote tests, the facilitator can share the tasks in chat. Optional: if asking user to assign difficulty rating, include rating options below task text on handout.
 
 ### Evaluate
 

@@ -29,7 +29,7 @@ The first thing I want to make clear right away is that we’re testing this sit
 Also, please don’t worry that you’re going to hurt our feelings. We’re doing this to improve the site, so we need to hear your honest reactions. If you have any questions as we go along, just ask them. I may not be able to answer them right away, since we’re interested in how people do when they don’t have someone sitting next to them to help. But if you still have any questions when we’re done I’ll try to answer them then. And if you need to take a break at any point, just let me know.
 
 ### In-person test
-You may have noticed the microphone. With your permission, I’m going to record what happens on the screen and our conversation. The recording will only be used to help figure out how to improve the site, and I’ll delete it when I finish reporting our findings, It won’t be seen by anyone except the team working on this project. It definitely helps me refer back to things, so I don’t have to take as many notes. Does that sound ok?
+With your permission, I’m going to record what happens on the screen and our conversation. The recording will only be used to help figure out how to improve the site, and I’ll delete it when I finish reporting our findings, It won’t be seen by anyone except the team working on this project. It definitely helps me refer back to things, so I don’t have to take as many notes. Does that sound ok?
 
 Ok. If you would, I’m going to ask you to sign a simple consent form to record this session.
 
@@ -57,7 +57,7 @@ Feel free to take control and explore, but for now just stay on this page. Based
 
 [Allow them to talk for a minute.]
 
-Now I’m going to ask you to do some specific exercises. I’m going to read each one out loud and give you the text to read. After you’re done with each one, I’ll ask you to rate how difficult it was. Again, remember that we’re testing the site, and not you. It’s perfectly okay to say if you find an exercise to be difficult!
+Now I’m going to ask you to do some specific exercises. I’m going to read each one out loud and give you the text to read. Again, remember that we’re testing the site, and not you. It’s perfectly okay to say if you find an exercise to be difficult!
 
 And remember, as much as possible, it will help us if you can try to think out loud as you go along.
 
@@ -67,7 +67,7 @@ And remember, as much as possible, it will help us if you can try to think out l
 
 [Hand the user a printout of the task or paste it into the chat. Read it out loud. Allow them to work through the task and talk about what they are doing and thinking.]
 
-[[When the user is done with each task, ask them to rate its difficulty.]
+[Optional task rating: when the user is done with each task, ask them to rate its difficulty.]
 
 On a scale of one to five, with one being easy and five being difficult, how would you rate the difficulty of this exercise?
 
